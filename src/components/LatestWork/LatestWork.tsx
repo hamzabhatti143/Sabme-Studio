@@ -6,13 +6,13 @@ const images = [
         img: "/images/img-1.jpg",
     },
     {
+        img: "/images/img-4.jpg",
+    },
+    {
         img: "/images/img-2.jpg",
     },
     {
         img: "/images/img-3.jpg",
-    },
-    {
-        img: "/images/img-4.jpg",
     },
     {
         img: "/images/img-5.png",
