@@ -10,7 +10,7 @@ const slides = [
     img: "/images/personal-study.png",
     title: "Personal Brand Case Study",
     description:
-      "The company Sabme Studio enhanced the LinkedIn image of Muhammad Haris Khalil — a Fintech Solutions Architect and Technical Lead located in Lahore. At first, his profile seemed 'just a profile' — ordinary banner, low positioning, and an About section lacking any story. We totally cleaned out the experience and rebuilt it around trust, clarity, and authority. From visuals that were clean, and scalable, with a consistent color philosophy to a keyword-rich headline to a human, story-centric About section. The outcome: a LinkedIn presence that now conveys credibility in seconds, draws higher-quality connections and establishes Haris as a trusted brand in the Fintech & Tech leadership arena.",
+      "The company Sabme Studio enhanced the LinkedIn image of Muhammad Haris Khalil, A Fintech Solutions Architect and Technical Lead located in Lahore. At first, his profile seemed 'just a profile', ordinary banner, low positioning, and an About section lacking any story. We totally cleaned out the experience and rebuilt it around trust, clarity, and authority. From visuals that were clean, and scalable, with a consistent color philosophy to a keyword-rich headline to a human, story-centric About section. The outcome: a LinkedIn presence that now conveys credibility in seconds, draws higher-quality connections and establishes Haris as a trusted brand in the Fintech & Tech leadership arena.",
   },
   {
     img: "/images/brand-study.png",

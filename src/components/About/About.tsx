@@ -28,19 +28,19 @@ const About = () => {
           Personal Branding and Business Branding & Management, creating a
           strong digital presence that reflects your story, your values, and
           your expertise. Our approach combines strategy, storytelling, and
-          social design — turning your online identity into a brand that
+          social design, turning your online identity into a brand that
           attracts trust, clients, and consistent growth. Whether you’re a
           consultant, a creative, or a clinic owner, we build the systems and
           visuals that make your audience remember you. We don’t just manage
-          social media — we manage perception. We don’t just design — we design
+          social media, we manage perception. We don’t just design, we design
           authority.
         </p>
-        <h4 className="text-white text-2xl font-semibold"> 💡 Our Focus</h4>
+        <h4 className="text-white text-2xl font-semibold"> Our Focus</h4>
         <p className="text-white">
-          ✅ Personal Branding: for coaches, consultants, and founders <br /> ✅
+          Personal Branding: for coaches, consultants, and founders <br />
           Business Branding & Management: for SMEs, startups, and service
-          providers<br /> ✅ Doctor & Clinic Branding: helping healthcare
-          professionals grow digitally and ethically<br /> ✅ Social Media Growth:
+          providers<br /> Doctor & Clinic Branding: helping healthcare
+          professionals grow digitally and ethically<br /> Social Media Growth:
           authentic visibility through content, design, and engagement
         </p>
         <button className="bg-[#652a8b] text-[#0D0D0D] font-bold py-2 px-6 rounded-full cursor-pointer">
