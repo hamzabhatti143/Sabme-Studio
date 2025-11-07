@@ -9,7 +9,7 @@ const About = () => {
     >
       <div className="w-full md:w-1/2 flex items-center justify-center">
         <Image
-          src={"/images/about.png"}
+          src={"/images/ab.png"}
           alt="Hero Image"
           width={400}
           height={100}

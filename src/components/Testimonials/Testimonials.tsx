@@ -26,7 +26,7 @@ const slides = [
   },
   {
     img: "/images/voiceofwomen.jpeg",
-    name: "Mahnoor Jamil",
+    name: "Voice of Women",
     role: "CEO Voice of Women",
     text: "Working with SABME Studio has been an incredible experience. Their team truly understood the essence of my brand and helped me translate my message into meaningful, impactful visuals and content. As a counsellor and life coach, authenticity and emotional connection matter deeply — and SABME Studio captured that perfectly.",
   },
