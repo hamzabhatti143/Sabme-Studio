@@ -3,13 +3,15 @@
 @import "swiper/css/navigation";
 @import "swiper/css/pagination";
 @import "tw-animate-css";
-
+@import "./src/components/lightswind.css";
 @custom-variant dark (&:is(.dark *));
+
 
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 100px; /* header ki height approx rakh di */
 }
+
 
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
