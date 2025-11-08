@@ -3,7 +3,6 @@
 @import "swiper/css/navigation";
 @import "swiper/css/pagination";
 @import "tw-animate-css";
-@import "./src/components/lightswind.css";
 @custom-variant dark (&:is(.dark *));
 
 
