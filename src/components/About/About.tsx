@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 const About = () => {
   return (
@@ -43,9 +44,9 @@ const About = () => {
           professionals grow digitally and ethically<br /> Social Media Growth:
           authentic visibility through content, design, and engagement
         </p>
-        <button className="bg-[#652a8b] text-[#0D0D0D] font-bold py-2 px-6 rounded-full cursor-pointer">
+        <Link href={"#Contact"} className="bg-[#652a8b] text-[#0D0D0D] font-bold py-2 px-6 rounded-full cursor-pointer">
           Contact Us
-        </button>
+        </Link>
       </div>
     </div>
   );

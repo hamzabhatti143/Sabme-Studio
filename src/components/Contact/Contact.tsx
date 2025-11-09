@@ -12,7 +12,7 @@ const Contact = () => {
     const formData = new FormData(e.currentTarget);
 
     try {
-      const response = await fetch("https://formspree.io/f/mvgvebza", {
+      const response = await fetch("https://formspree.io/f/mnnlaleb", {
         method: "POST",
         body: formData,
       });
@@ -30,7 +30,7 @@ const Contact = () => {
   };
   return (
     <>
-      <div className="bg-[#0D0D0D] px-4 md:px-9 lg:px-14 py-4">
+      <div className="bg-[#0D0D0D] px-4 md:px-9 lg:px-14 py-4" id="Contact">
         <h2 className="text-white font-bold text-3xl text-center">Contact Us</h2>
 
         <form

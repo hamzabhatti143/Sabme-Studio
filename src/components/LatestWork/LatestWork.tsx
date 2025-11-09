@@ -14,12 +14,7 @@ const images = [
   {
     img: "/images/img-3.jpg",
   },
-  {
-    img: "/images/img-5.png",
-  },
-  {
-    img: "/images/img-6.png",
-  },
+  
   {
     img: "/images/img-7.png",
   },
@@ -37,6 +32,12 @@ const images = [
   },
   {
     img: "/images/img-12.png",
+  },
+  {
+    img: "/images/img-5.png",
+  },
+  {
+    img: "/images/img-6.png",
   },
 ];
 const LatestWork = () => {

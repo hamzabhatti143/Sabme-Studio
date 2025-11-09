@@ -52,9 +52,9 @@ const Header = () => {
       <div className={`w-full md:w-1/3 flex justify-center md:justify-end order-last md:order-0
         ${open ? 'flex' : 'hidden md:flex'}
       `}>
-        <button className="bg-[#652a8b] text-[#0D0D0D] font-bold py-2 px-6 rounded-full cursor-pointer">
+        <Link href={"#Contact"} className="bg-[#652a8b] text-[#0D0D0D] font-bold py-2 px-6 rounded-full cursor-pointer">
           Contact Us
-        </button>
+        </Link>
       </div>
       
     </div>
